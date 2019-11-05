@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="1243770752_f60598" size="1.000000 0.692602" />
+    <ImageTarget name="geograficheskaya-karta-anglii-s-gorodami" size="1.000000 1.081395" />
+    <ImageTarget name="karta-germanii" size="1.000000 1.292157" />
+    <ImageTarget name="b968a4dd35729d7e19c0915525197ce2" size="1.000000 0.956175" />
+    <ImageTarget name="12" size="1.000000 0.548189" />
+  </Tracking>
+</QCARConfig>
